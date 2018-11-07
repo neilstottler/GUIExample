@@ -8,7 +8,7 @@ public class GUIButton implements ActionListener {
 	private JLabel label = new JLabel("Number of clicks:  0     ");
 	private JFrame frame = new JFrame();
 
-	public GUI() {
+	public GUIButton() {
 
 		// the clickable button
 		JButton button = new JButton("Click Me");
@@ -37,6 +37,6 @@ public class GUIButton implements ActionListener {
 
 	// create one Frame
 	public static void main(String[] args) {
-		new GUI();
+		new GUIButton();
 	}
 }
