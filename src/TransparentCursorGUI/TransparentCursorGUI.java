@@ -1,3 +1,4 @@
+package TransparentCursorGUI;
 import java.awt.*;
 import java.awt.image.MemoryImageSource;
 

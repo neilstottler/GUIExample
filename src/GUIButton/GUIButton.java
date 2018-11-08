@@ -1,3 +1,4 @@
+package GUIButton;
 //https://introcs.cs.princeton.edu/java/15inout/GUI.java.html
 import javax.swing.*;
 import java.awt.*;

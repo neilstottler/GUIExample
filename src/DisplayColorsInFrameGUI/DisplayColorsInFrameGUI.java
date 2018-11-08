@@ -1,3 +1,4 @@
+package DisplayColorsInFrameGUI;
 import java.awt.Graphics;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;

@@ -1,3 +1,4 @@
+package GUIMultipleButtons;
 import javax.swing.*;
 //https://www.guru99.com/java-swing-gui.html
 public class GUIMultipleButtons {

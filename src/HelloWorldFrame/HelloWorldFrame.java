@@ -1,3 +1,4 @@
+package HelloWorldFrame;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 //http://www.wideskills.com/java-tutorial/java-swing-tutorial

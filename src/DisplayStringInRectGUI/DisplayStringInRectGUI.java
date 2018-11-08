@@ -1,3 +1,4 @@
+package DisplayStringInRectGUI;
 import java.awt.*;
 import javax.swing.*;
 
