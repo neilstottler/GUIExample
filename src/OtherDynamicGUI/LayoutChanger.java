@@ -45,6 +45,7 @@ public class LayoutChanger implements ActionListener{
     frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     Container con = frame.getContentPane();
     con.setLayout(new BorderLayout());
+    
 
     panel = new JPanel();
     panel2 = new JPanel();
@@ -62,6 +63,7 @@ public class LayoutChanger implements ActionListener{
     panel2.add(b4);
     panel2.add(b5);
     panel2.add(b6);
+    
     // Layout changer button
     flowLayout = new JButton("FlowLayout");
     gridLayout = new JButton("GridLayout");
